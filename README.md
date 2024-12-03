@@ -1,1 +1,1 @@
-Testing how Firebase Cloud Messaging notofications work with Android.
+Testing how Firebase Cloud Messaging notifications work with Android.
